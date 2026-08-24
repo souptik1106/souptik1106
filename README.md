@@ -6,6 +6,10 @@ Focus areas: predictive modeling & classification, exploratory data analysis, an
 
 ## Featured projects
 
+**[FIFA 19 Player Analysis & Rating Prediction](https://github.com/souptik1106/FIFA19-Player-Rating-Prediction)**
+
+Exploratory analysis of the full FIFA 19 player database (18,207 players, 89 attributes) plus a Linear Regression model predicting a player's Overall rating from their individual attributes, interpreted with permutation importance.
+
 **[Heart Failure Prediction](https://github.com/souptik1106/Heart-FailurePrediction)**
 
 Binary classification model estimating mortality risk from heart failure using 12 clinical features (age, ejection fraction, serum creatinine, blood pressure, and more). Compares multiple classification algorithms, with a full write-up of approach, results, and interpretation.
