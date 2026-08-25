@@ -6,6 +6,10 @@ Focus areas: predictive modeling & classification, exploratory data analysis, an
 
 ## Featured projects
 
+**[Resume Screening with NLP](https://github.com/souptik1106/resume-screening-nlp)**
+
+An end-to-end, leakage-aware text-classification package that compares TF-IDF pipelines with stratified cross-validation. Includes an installable CLI, duplicate/conflict validation, automated tests, CI, privacy safeguards, and responsible-use guidance.
+
 **[FIFA 19 Player Analysis & Rating Prediction](https://github.com/souptik1106/FIFA19-Player-Rating-Prediction)**
 
 Exploratory analysis of the full FIFA 19 player database (18,207 players, 89 attributes) plus a Linear Regression model predicting a player's Overall rating from their individual attributes, interpreted with permutation importance.
@@ -20,7 +24,7 @@ Consulting-style case study on the North American food & beverage market: flavor
 
 ## Tools & skills
 
-Python · pandas · NumPy · scikit-learn · matplotlib / seaborn · SQL · Jupyter Notebook · Excel
+Python · pandas · NumPy · scikit-learn · matplotlib / seaborn · SQL · NLP · GitHub Actions · Jupyter Notebook · Excel
 
 ## Get in touch
 
