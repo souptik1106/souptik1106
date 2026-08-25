@@ -10,6 +10,10 @@ Focus areas: predictive modeling & classification, exploratory data analysis, an
 
 An end-to-end, leakage-aware text-classification package that compares TF-IDF pipelines with stratified cross-validation. Includes an installable CLI, duplicate/conflict validation, automated tests, CI, privacy safeguards, and responsible-use guidance.
 
+**[Face Mask Detection with VGG19 — Deep Learning](https://github.com/souptik1106/Face-Mask-Detection-VGG19)**
+
+A reproducible computer-vision pipeline for classifying faces with and without masks using VGG19 transfer learning. Includes frozen-backbone training, validation-selected fine-tuning, full held-out evaluation, Macro-F1 reporting, dataset integrity checks, single-image inference, automated tests, and CI. Final performance results are intentionally pending a complete training run.
+
 **[FIFA 19 Player Analysis & Rating Prediction](https://github.com/souptik1106/FIFA19-Player-Rating-Prediction)**
 
 Exploratory analysis of the full FIFA 19 player database (18,207 players, 89 attributes) plus a Linear Regression model predicting a player's Overall rating from their individual attributes, interpreted with permutation importance.
